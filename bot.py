@@ -7,7 +7,7 @@ import datetime
 import asyncio
 
 load_dotenv()
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("swtoken")
 
 ROLE_NAME = "Citizen of Etheria"
 
